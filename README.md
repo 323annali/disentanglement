@@ -4,12 +4,7 @@ This repository contains a clean, refactored PyTorch implementation of the origi
 
 The project investigates the impact of **disentanglement constraints** on Transformer-based models, with a focus on **interpretability and reasoning performance**. Across experiments, we observe a consistent trend: introducing explicit disentanglement constraints often **degrades task performance** and requires **additional model capacity and training effort** to compensate.
 
----
-<p align="center"><img src="img/results.jpg" width="90%" alt="Experimental Results" /></p>
-<p align="center">
-  <img src="img/baseline.jpg" width="45%" alt="Baseline Attention Heatmap" />
-  <img src="img/disentangled.jpg" width="45%" alt="Disentangled Attention Heatmap" />
-</p>
+<p align="center"><img src="img/combined.jpg" width="90%" alt="Experimental Results" /></p>
 
 # Key Findings
 
