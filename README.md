@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains a clean, refactored PyTorch implementation of the original research code. The codebase was reorganized in **December 2025** to improve readability, modularity, and experimental clarity.
+This repository contains a clean, refactored PyTorch implementation of the original research code. The codebase was reorganized in **January 2026** to improve readability, modularity, and experimental clarity.
 
 The project investigates the impact of **disentanglement constraints** on Transformer-based models, with a focus on **interpretability and reasoning performance**. Across experiments, we observe a consistent trend: introducing explicit disentanglement constraints often **degrades task performance** and requires **additional model capacity and training effort** to compensate.
 
